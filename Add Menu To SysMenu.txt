@@ -1,0 +1,1 @@
+This Program Describe How You can Add Menu To SysMenu as well as Modified the SysMenu, like  Checked Or Unchecked Menu, Delete Menu, Enable Or Disable Menu etc. Remove Windows Control Box and remove Maximize button without affecting Minimize button. Hope You like it. If you developed it further please send me a copy. Please Check It Out Now.
